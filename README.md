@@ -1,7 +1,7 @@
 # Data-Wrangling-using-Python-with-API
 
 
-pokeapi.py - get pokemon api from pokeapi.co using Requests library, dict, func
+pokeapi.py - get pokemon api from pokeapi.co using Requests library, dictionaries, functions
 
 
 
