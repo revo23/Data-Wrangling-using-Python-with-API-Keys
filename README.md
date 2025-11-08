@@ -1,13 +1,13 @@
 # Data-Wrangling-using-Python-with-API
 
 **Data Wrangling with Python Pandas**  
-
+pandas.ipynb
 
 
 
 
 **API practice**  
-pokeapi.py - get pokemon api from `pokeapi.co` using requests library, dictionaries, functions  
+pokeapi.py (get pokemon api from `pokeapi.co` using requests library, dictionaries, functions)  
 
 
 **Data Wrangling practice**  
