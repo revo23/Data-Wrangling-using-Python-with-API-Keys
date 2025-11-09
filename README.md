@@ -1,9 +1,9 @@
 # Data-Wrangling-using-Python-with-API
 
 **Data Wrangling with Python Pandas**  
-series.ipynb (Using Python Pandas Series)
-dataframes.ipynb (Using Python Pandas DataFrames)
-select_filter_sort.ipynb (Selecting, Filtering snd Sorting Python Pandas DataFrames)
+series.ipynb (Using Python Pandas Series)  
+dataframes.ipynb (Using Python Pandas DataFrames)  
+select_filter_sort.ipynb (Selecting, Filtering snd Sorting Python Pandas DataFrames)  
 
 
 **API practice**  
