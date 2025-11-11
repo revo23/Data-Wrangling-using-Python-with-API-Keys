@@ -14,10 +14,10 @@ functions e.g. pd.series(), pd.read_csv(),  pd.DataFrame(), df.iloc[], df.loc[],
 **API practice**  
 pokeapi.py (get pokemon api from `pokeapi.co` using requests library, dictionaries, functions)  
 
-
+<!-- [This text will not appear in the rendered]
 **Data Wrangling practice**  
 customers-1000000.csv (1 mil customers sample record)  
-
+README -->
 
 
 **References**    
